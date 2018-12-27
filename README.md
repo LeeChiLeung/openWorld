@@ -24,3 +24,5 @@
 
 客户端： android Actinium、windows v2ray 可用同一个服务端。
 
+参考文章
+https://www.i5seo.com/v2ray-mac-use-the-tutorials-v2rayx.html
